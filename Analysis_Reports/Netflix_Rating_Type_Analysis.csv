@@ -1,24 +1,15 @@
-rating,type,Number_of_Titles
-G,Movie,41
-NC-17,Movie,3
-NR,Movie,75
-NR,Tv Show,4
-PG,Movie,287
-PG-13,Movie,490
-R,Movie,797
-R,Tv Show,2
-TV-14,Movie,1427
-TV-14,Tv Show,730
-TV-G,Movie,126
-TV-G,Tv Show,94
-TV-MA,Movie,2062
-TV-MA,Tv Show,1143
-TV-PG,Movie,540
-TV-PG,Tv Show,321
-TV-Y,Movie,131
-TV-Y,Tv Show,175
-TV-Y7,Movie,139
-TV-Y7,Tv Show,194
-TV-Y7-FV,Movie,5
-TV-Y7-FV,Tv Show,1
-UR,Movie,3
+rating,Movie,Tv Show
+G,41,0
+NC-17,3,0
+NR,75,4
+PG,287,0
+PG-13,490,0
+R,797,2
+TV-14,1427,730
+TV-G,126,94
+TV-MA,2062,1143
+TV-PG,540,321
+TV-Y,131,175
+TV-Y7,139,194
+TV-Y7-FV,5,1
+UR,3,0
